@@ -1,0 +1,10 @@
+node_modules
+dist
+logs
+docs/path
+
+.env
+.vscode
+
+yarn.lock
+deploy_dev.yml
